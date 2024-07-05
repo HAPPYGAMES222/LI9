@@ -1,0 +1,1 @@
+# Android device tree for TECNO TECNO LI9 (TECNO-LI9)
